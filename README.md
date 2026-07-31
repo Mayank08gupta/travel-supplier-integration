@@ -10,6 +10,9 @@ This project is a Travel Supplier Integration Prototype built using **FastAPI**,
 The system integrates multiple hotel suppliers behind a single standardized API. It normalizes supplier responses, performs unified hotel search, manages bookings using Temporal workflows, and stores booking data in SQLite.
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](docs/architecture.png)
 
 # Technology Stack
 
